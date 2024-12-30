@@ -29,5 +29,8 @@ thislist = ["apple", "banana", "cherry"]
 print(thislist)
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
+<<<<<<< HEAD
 name=input("zehmet olmazsa adinizi yazizin")
 print (f"hello {name}")
+=======
+>>>>>>> c1e199dd0b2e921c813d643f1180a5da13600a60
